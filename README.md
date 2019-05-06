@@ -15,7 +15,7 @@ this directory before starting this exercise.
 You can also find instructions for installing Octave/MATLAB in the 
 Environment Setup Instructions" of the course website.
 <br />
-# nFiles included in this exercise
+# Files included in this exercise
 ex3.m - Octave/MATLAB script that steps you through part 1<br />
 ex3 nn.m - Octave/MATLAB script that steps you through part 2<br />
 ex3data1.mat - Training set of hand-written digits<\br>
